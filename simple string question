@@ -1,0 +1,8 @@
+ # simple-string
+Output Description:
+Print the characters in a string separated by comma.
+
+Sample Input :
+Adhi
+Sample Output :
+A,d,h,i
